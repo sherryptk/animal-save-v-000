@@ -24,9 +24,9 @@ html {
 
   #dolphin{
     top: 50px;
-    -ms-transform: rotate(-70deg); /* IE 9 */
-    -webkit-transform: rotate(-70deg); /* Chrome, Safari, Opera */
-    transform: rotate(-70deg);
+    -ms-transform: rotate(-50deg); /* IE 9 */
+    -webkit-transform: rotate(-50deg); /* Chrome, Safari, Opera */
+    transform: rotate(-50deg);
   }
 }
 
