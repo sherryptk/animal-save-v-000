@@ -10,3 +10,15 @@ html {
 
 /* Write your solution here */
 
+
+@media only screen and (max-width:1325px){
+
+  #ostrich{
+    top:-50px;
+  }
+
+}
+
+  /** For the ostrich, starting with the screen larger and dragging it smaller (desktop down)
+  have the ostrich jump upwards 100px closer to the top of the screen to avoid being eaten by
+  the alligator. As the screen gets smaller then he will run on top of Mr. Alligator's back.*/
